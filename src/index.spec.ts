@@ -32,3 +32,5 @@ describe("test add function", () => {
         expect(() => {add("//;\n-1;-2")}).toThrow(Error)
     })
 })
+
+// This is a test
